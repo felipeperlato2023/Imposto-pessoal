@@ -1,0 +1,15 @@
+C:\Users\Felipe\Desktop\PROJETOS\Impostos\Impostos\bin\Debug\net6.0\Impostos.exe
+C:\Users\Felipe\Desktop\PROJETOS\Impostos\Impostos\bin\Debug\net6.0\Impostos.deps.json
+C:\Users\Felipe\Desktop\PROJETOS\Impostos\Impostos\bin\Debug\net6.0\Impostos.runtimeconfig.json
+C:\Users\Felipe\Desktop\PROJETOS\Impostos\Impostos\bin\Debug\net6.0\Impostos.dll
+C:\Users\Felipe\Desktop\PROJETOS\Impostos\Impostos\bin\Debug\net6.0\Impostos.pdb
+C:\Users\Felipe\Desktop\PROJETOS\Impostos\Impostos\obj\Debug\net6.0\Impostos.csproj.AssemblyReference.cache
+C:\Users\Felipe\Desktop\PROJETOS\Impostos\Impostos\obj\Debug\net6.0\Impostos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe\Desktop\PROJETOS\Impostos\Impostos\obj\Debug\net6.0\Impostos.AssemblyInfoInputs.cache
+C:\Users\Felipe\Desktop\PROJETOS\Impostos\Impostos\obj\Debug\net6.0\Impostos.AssemblyInfo.cs
+C:\Users\Felipe\Desktop\PROJETOS\Impostos\Impostos\obj\Debug\net6.0\Impostos.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Desktop\PROJETOS\Impostos\Impostos\obj\Debug\net6.0\Impostos.dll
+C:\Users\Felipe\Desktop\PROJETOS\Impostos\Impostos\obj\Debug\net6.0\refint\Impostos.dll
+C:\Users\Felipe\Desktop\PROJETOS\Impostos\Impostos\obj\Debug\net6.0\Impostos.pdb
+C:\Users\Felipe\Desktop\PROJETOS\Impostos\Impostos\obj\Debug\net6.0\Impostos.genruntimeconfig.cache
+C:\Users\Felipe\Desktop\PROJETOS\Impostos\Impostos\obj\Debug\net6.0\ref\Impostos.dll
